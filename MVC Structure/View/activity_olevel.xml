@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/img"
+    tools:context=".olevel">
+
+    <Button
+        android:id="@+id/mathb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mathb"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/puremath"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/puremath"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/physics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/physics"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/chemistry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chemistry"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/biology"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/biology"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/english"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/english"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/bengali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bengali"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+    <Button
+        android:id="@+id/economics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/economics"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+    <Button
+        android:id="@+id/commerce"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/commerce"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+    <Button
+        android:id="@+id/accounting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/accounting"
+        android:textSize="20sp"
+        android:backgroundTint="#424242"
+        android:textStyle="italic"
+        />
+
+</LinearLayout>
